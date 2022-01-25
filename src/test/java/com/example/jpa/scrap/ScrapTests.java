@@ -40,7 +40,6 @@ public class ScrapTests {
         jacksonMapper = new ObjectMapper();
     }
 
-
     @Test
     public void naver_1() throws Exception {
 
