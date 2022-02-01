@@ -11,3 +11,8 @@
 
 1. Spring Security
 1. Hibernate Vaild
+
+
+## 참고서적
+
+1. 자바 ORM 표준 JPA 
