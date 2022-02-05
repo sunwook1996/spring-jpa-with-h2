@@ -10,4 +10,10 @@
 ## 기술적용
 
 1. Spring Security
-1. Hibernate Vaild
+2. Hibernate Vaild
+3. Testing
+
+
+## 참고서적
+
+1. 자바 ORM 표준 JPA 
